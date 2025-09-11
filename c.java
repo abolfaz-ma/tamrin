@@ -7,10 +7,9 @@ public class c {
         String u = o.next();
         for (int y =0 ; y <f;y++){
             System.out.print("copy of ");
-            if (y==5){
-                break;
             }
         }
         System.out.print(u);
     }
 }
+
