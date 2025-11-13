@@ -1,0 +1,3 @@
+- ☕️ Written in Java
+- ⚙️ Build with Maven
+- 🚀 Fast execution
